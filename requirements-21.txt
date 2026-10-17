@@ -1,0 +1,7 @@
+pyrofork
+tgcrypto
+aiohttp>=3.9
+yt-dlp
+requests>=2.31
+Flask>=3.0
+gunicorn>=22.0
