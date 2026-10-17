@@ -1,0 +1,4 @@
+pyrofork
+tgcrypto
+Flask>=3.0
+requests>=2.31
